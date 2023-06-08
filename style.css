@@ -7,7 +7,7 @@
 }
 
 body{
-  background-color: var(--primary-color);
+  background-image: url(./imagens/fundo.avif);
   font-size: 15px;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -20,7 +20,7 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.188);
 }
 .title{
-    background-color: rgb(247, 247, 82);
+    background-color: rgb(234, 146, 227);
     padding: 20px;
     border-radius: 10px 10px 0px 0px;
     text-transform: uppercase;
